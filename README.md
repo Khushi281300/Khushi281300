@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <i>"Hoping the recursive function doesn't create a wormhole (ワームホール) in the space-time (時空) of system memory 🌀."</i>
+  <i>"Hoping the recursive function doesn't create a ワームホール in the 時空 of system memory 🌀."</i>
 </p>
 
 ---
