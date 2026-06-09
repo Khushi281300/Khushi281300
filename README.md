@@ -1,27 +1,25 @@
-<table border="0">
-  <tr>
-    <td valign="top" width="60%">
-      <h1>Hi 👋, I'm Khushi Shukla</h1>
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&duration=3000&pause=1000&color=FFB7C5&center=false&vCenter=true&width=400&lines=Full-Stack+%26+AI+Engineer;Building+Agentic+AI+Workflows;LangChain+%26+LangGraph+Expert;UI+%26+GSAP+Motion+Designer" alt="Typing SVG" />
-      </a>
-      <br><br>
-      <p>
-        <i>"Hoping the recursive function doesn't create a ワームホール in the 時空 of system memory 🌀."</i>
-      </p>
-    </td>
-    <td valign="top" width="40%" align="right">
-      <img src="https://user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif" width="100%" alt="coding-gif" />
-    </td>
-  </tr>
-</table>
+<h1 align="center">Hi 👋, I'm Khushi Shukla</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&duration=3000&pause=1000&color=FFB7C5&center=true&vCenter=true&width=500&lines=Full-Stack+%26+AI+Engineer;Building+Agentic+AI+Workflows;LangChain+%26+LangGraph+Expert;UI+%26+GSAP+Motion+Designer" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif" width="380" style="border-radius: 8px;" alt="coding-gif" />
+</p>
+
+<p align="center">
+  <i>"Hoping the recursive function doesn't create a wormhole (ワームホール) in the space-time (時空) of system memory 🌀."</i>
+</p>
 
 ---
 
-### 👩‍💻 About Me
+## 🌸 About Me
 
-- 🌸 **AI & Agents:** Building multi-agent systems and RAG pipelines using **LangChain** and **LangGraph**.
-- 🌙 **Frontend & Motion:** Crafting smooth, interactive web experiences with **React/Next.js**, **GSAP**, and **Framer Motion**.
+- 🤖 **Generative AI & Agents:** Designing multi-agent systems and RAG pipelines using **LangChain** and **LangGraph**.
+- 🌙 **Frontend & Motion:** Crafting smooth, interactive interfaces with **React/Next.js**, **GSAP**, and **Framer Motion**.
 - 🌌 **Portfolio:** Explore my projects at 🔗 [khushishukla.vercel.app](https://khushishukla.vercel.app/)
 - 📝 **Writing:** Sharing ideas on AI and web development on ✍️ [Medium](https://medium.com/@khushi28132004)
 - 📧 **Get in touch:** Reach me at **khushi28132004@gmail.com**
